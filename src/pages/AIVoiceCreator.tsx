@@ -22,7 +22,7 @@ const AIVoiceCreator = () => {
       <AIVoiceCreatorPricing />
       
       <div className="mt-16 text-center mb-20">
-        <Card className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white p-8 rounded-2xl shadow-xl">
+        <Card className="bg-gradient-to-r from-purple-600 to-indigo-700 text-white p-8 rounded-2xl shadow-xl">
           <CardContent className="py-8">
             <h2 className="text-3xl md:text-4xl font-bold mb-6">พร้อมให้โลกได้ยินเสียงของคุณหรือยัง?</h2>
             <p className="text-lg mb-8 max-w-3xl mx-auto">
@@ -33,7 +33,7 @@ const AIVoiceCreator = () => {
             <Button 
               onClick={handleRedirectToAuth} 
               size="lg" 
-              className="text-lg px-8 py-6 h-auto bg-white text-blue-700 hover:bg-gray-100"
+              className="text-lg px-8 py-6 h-auto bg-white text-purple-700 hover:bg-gray-100"
             >
               🔊 ลองใช้ AI Voice Creator เลย!
             </Button>
