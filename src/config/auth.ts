@@ -1,7 +1,7 @@
 
 // Default admin credentials
 export const DEFAULT_ADMIN = {
-  email: 'pizchy.wachida@gmail.com',
-  password: 'Okey638601',
+  email: 'premium@ai-voice.com',
+  password: 'password-active',
   name: 'System Admin'
 };
